@@ -1,0 +1,46 @@
+body {
+    background: #242729 none repeat scroll 0 0;
+    color: #bbbcbf;
+    text-align: center;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+.main {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 280px;
+    min-height: 420px;
+}
+
+.welcome {
+    color: #ffffff;
+    margin-bottom: 70px;
+    font-weight: 800;
+    font-size: x-large;
+}
+
+.image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 18px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 16px;
+}
+
+.social-elem {
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+}
